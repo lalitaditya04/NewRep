@@ -7,6 +7,6 @@ My name is Lalit Aditya
 Iam Working on my skill.
 
 
-My Skill is Web Dev (HTML)
+how are you?
 
 Whats up and running.
